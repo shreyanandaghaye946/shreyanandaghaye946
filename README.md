@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Shreya</h1>
 
-<h3 align="center">Python Full Stack Developer | Django Developer | Problem Solver</h3> -->
+<h3 align="center">Python Full Stack Developer | Django Developer | Problem Solver</h3>
 
 
 <p align="center">
