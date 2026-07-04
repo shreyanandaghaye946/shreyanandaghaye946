@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hi , I'm Shreya</h1>
 
 <h3 align="center">Python Full Stack Developer | Django Developer | Problem Solver</h3>
 
@@ -12,7 +12,7 @@
 
 <ul>
   <li>🎓 B.Tech in Computer Science Engineering</li>
-  <li>💻 Skilled in Python, Django, HTML, CSS, JavaScript, React, and MySQL</li>
+  <li>💻 Skilled in Python, Django, Flask, HTML, CSS, JavaScript,c++, React, and MySQL</li>
   <li>🚀 Built an E-commerce Website and Expense Analyzer Dashboard</li>
   <li>🌱 Currently improving Data Structures and Algorithms skills</li>
 
@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,c++,react,mysql,git,github,vscode" />
 </p>
 
 ---
