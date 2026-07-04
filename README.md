@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shreya</h1>
 
 <!-- <h3 align="center">Python Full Stack Developer | Django Developer | Problem Solver</h3> -->
-<h3 align="center">🌟 Passionate Python Developer | Django Developer | C++ Enthusiast | Open Source Learner</h3>
+<h3 align="center">🚀 Python Full Stack Developer | Django & React Developer | C++ Programmer | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Python+Full+Stack+Developer;Django+Developer;Open+to+Internship+Opportunities" />
