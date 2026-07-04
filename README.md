@@ -15,7 +15,7 @@
   <li>💻 Skilled in Python, Django, HTML, CSS, JavaScript, React, and MySQL</li>
   <li>🚀 Built an E-commerce Website and Expense Analyzer Dashboard</li>
   <li>🌱 Currently improving Data Structures and Algorithms skills</li>
-  <li>📫 Reach me at: your-email@example.com</li>
+
 </ul>
 
 ---
@@ -28,16 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -48,4 +38,4 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
