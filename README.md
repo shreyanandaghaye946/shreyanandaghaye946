@@ -12,7 +12,7 @@
 
 <ul>
   <li>🎓 B.Tech in Computer Science Engineering</li>
-  <li>💻 Skilled in Python, Django, Flask, HTML, CSS, JavaScript,c++, React, and MySQL</li>
+  <li>💻 Skilled in Python, Django, Flask, HTML, CSS, JavaScript, c++, React, and MySQL</li>
   <li>🚀 Built an E-commerce Website and Expense Analyzer Dashboard</li>
   <li>🌱 Currently improving Data Structures and Algorithms skills</li>
 
