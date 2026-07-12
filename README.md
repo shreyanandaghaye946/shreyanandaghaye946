@@ -53,12 +53,9 @@ Python Full Stack Developer | Django Developer | Problem Solver
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Python Full Stack Developer
-- 🌱 Learning Data Structures & Algorithms
-- 🚀 Interested in Backend Development
-- 🔥 Passionate about solving coding problems
-- 📚 Exploring Django REST Framework and FastAPI
+Python Full Stack Developer with hands-on experience building responsive web applications.
+Skilled in Python, Django, Flask, React, and MySQL.
+Passionate about backend development, problem-solving, and creating scalable solutions.
 
 ---
 
