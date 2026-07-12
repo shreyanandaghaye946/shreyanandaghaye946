@@ -18,7 +18,7 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </a>
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/shreya-nandaghaye-845360287?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
@@ -117,6 +117,6 @@ A blog management system developed with **Django and SQLite**, allowing users to
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shreyanandaghaye946?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
