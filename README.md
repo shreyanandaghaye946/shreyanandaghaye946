@@ -1,42 +1,104 @@
-<h1 align="center">Hi , I'm Shreya</h1>
+<h1 align="center">Hi, I'm Shreya 👋</h1>
 
-<h3 align="center">Python Full Stack Developer | Building Web Applications | Problem Solver</h3>
-
+<h3 align="center">
+Python Full Stack Developer | Django Developer | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Python+Full+Stack+Developer;Django+Developer;Open+to+Internship+Opportunities" />
+💻 Passionate about building web applications using Python & Django
+</p>
+
+<p align="center">
+<a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">📧 Email</a> •
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🛠 Tech Stack
 
-<ul>
-  <li>🎓 B.Tech in Computer Science Engineering</li>
-  <li>💻 Skilled in Python, Django, Flask, HTML, CSS, JavaScript, React, Bootstrap and MySQL</li>
-  <li>🚀 Built an E-commerce Website and Expense Analyzer Dashboard</li>
-  <li>🌱 Currently improving Data Structures and Algorithms skills</li>
+## Languages
 
-</ul>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
+</p>
 
----
+## Frontend
 
-## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,cpp,react,mysql,git,github,vscode,bootstrap," />
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
+
+## Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+## Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
+# 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Python Full Stack Developer
+- 🌱 Learning Data Structures & Algorithms
+- 🚀 Interested in Backend Development
+- 🔥 Passionate about solving coding problems
+- 📚 Exploring Django REST Framework and FastAPI
+
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 🛒 E-Commerce Website
-- 💰 Expense Analyzer Dashboard
-- 📚 DSA Problem Solutions
+### 🛒 E-Commerce Website
+Developed a complete e-commerce platform using Django with user authentication, shopping cart, order management, and admin panel.
 
 ---
 
+### 💰 Expense Analyzer Dashboard
+Built an expense tracking system with category-wise analytics, monthly reports, and interactive charts.
 
+---
+
+### 📚 DSA Problem Solutions
+Regularly solving Data Structures and Algorithms problems in C++ and sharing optimized solutions.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
