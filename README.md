@@ -15,6 +15,15 @@ Python Full Stack Developer | Django Developer | Problem Solver
 <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
 </p>
 
+
+---
+
+# 👩‍💻 About Me
+
+Python Full Stack Developer with hands-on experience building responsive web applications.
+Skilled in Python, Django, Flask, React, and MySQL.
+Passionate about backend development, problem-solving, and creating scalable solutions.
+
 ---
 
 # 🛠 Tech Stack
