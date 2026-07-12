@@ -14,7 +14,7 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-shreyanandaghaye@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-shreyanandaghaye123@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN">
