@@ -33,39 +33,49 @@ Python Full Stack Developer | Django Developer | Problem Solver
 Python Full Stack Developer with hands-on experience building responsive web applications. Skilled in Python, Django, Flask, React, MySQL, and REST APIs. Passionate about backend development, problem-solving, and creating scalable solutions.
 
 ---
-
 # 🛠 Tech Stack
 
-### Languages
+<h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Frontend
+<br>
+
+<h3 align="center">Frontend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### Backend
+<br>
+
+<h3 align="center">Backend & Database</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Database
+<br>
+
+<h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
 ---
 
 # 🚀 Featured Projects
