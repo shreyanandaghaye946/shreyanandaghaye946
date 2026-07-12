@@ -80,15 +80,33 @@ Python Full Stack Developer with hands-on experience building responsive web app
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛒 **E-Commerce Website** | Full-stack e-commerce platform with authentication, cart, and admin panel. |
-| 💰 **Expense Analyzer Dashboard** | Expense tracking dashboard with analytics and charts. |
-| 📝 **Blogging Platform** | Blog management system built with Django. |
-| 📚 **DSA Solutions** | Collection of C++ solutions to Data Structures & Algorithms problems. |
+# 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+A full-stack e-commerce platform built with **Django, MySQL, HTML, CSS, JavaScript, and Bootstrap** featuring user authentication, product management, shopping cart, and order management.
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/ecommerce-website
 
 ---
 
+### 💰 Expense Analyzer Dashboard
+A web application for tracking and analyzing expenses with **Django, MySQL, and Chart.js**, providing category-wise insights, monthly reports, and interactive dashboards.
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/expense-analyzer-dashboard
+
+---
+
+### 📝 Blogging Platform
+A blog management system developed with **Django and SQLite**, allowing users to create, edit, and manage blog posts through an intuitive interface.
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/blogging-platform
+
+---
+
+### 📚 DSA Problem Solutions
+A collection of **C++** solutions for Data Structures and Algorithms problems from platforms like LeetCode, focusing on optimized and interview-ready implementations.
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/DSA
 # 📊 GitHub Stats
 
 <p align="center">
