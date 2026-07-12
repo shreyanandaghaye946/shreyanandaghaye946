@@ -14,15 +14,15 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-shreyanandaghaye123@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/shreya-nandaghaye-845360287?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/shreya-nandaghaye-845360287">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-shreyanandaghaye946?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shreyanandaghaye946">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
