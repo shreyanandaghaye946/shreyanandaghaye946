@@ -80,8 +80,6 @@ Python Full Stack Developer with hands-on experience building responsive web app
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
 ### 🛒 E-Commerce Website
 A full-stack e-commerce platform built with **Django, MySQL, HTML, CSS, JavaScript, and Bootstrap** featuring user authentication, product management, shopping cart, and order management.
 
@@ -100,24 +98,6 @@ A web application for tracking and analyzing expenses with **Django, MySQL, and 
 A blog management system developed with **Django and SQLite**, allowing users to create, edit, and manage blog posts through an intuitive interface.
 
 🔗 **Repository:** https://github.com/YOUR_USERNAME/blogging-platform
-
----
-
-### 📚 DSA Problem Solutions
-A collection of **C++** solutions for Data Structures and Algorithms problems from platforms like LeetCode, focusing on optimized and interview-ready implementations.
-
-🔗 **Repository:** https://github.com/YOUR_USERNAME/DSA
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
