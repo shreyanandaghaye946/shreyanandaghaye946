@@ -5,55 +5,62 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </h3>
 
 <p align="center">
-💻 Passionate about building modern web applications using Python & Django
+💻 Building scalable web applications with Python & Django
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">📧 Email</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Python+Full+Stack+Developer;Django+Developer;Backend+Enthusiast;Open+to+Internship+Opportunities" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-Python Full Stack Developer with hands-on experience building responsive web applications. Skilled in **Python, Django, Flask, React, MySQL, and REST APIs**. Passionate about backend development, problem-solving, and creating scalable solutions while continuously learning modern technologies.
+Python Full Stack Developer with hands-on experience building responsive web applications. Skilled in Python, Django, Flask, React, MySQL, and REST APIs. Passionate about backend development, problem-solving, and creating scalable solutions.
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🛠 Tools & Platforms
+### Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -63,12 +70,12 @@ Python Full Stack Developer with hands-on experience building responsive web app
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack |
-|---------|------------|
-| 🛒 **E-Commerce Website** | Django • MySQL • Bootstrap |
-| 💰 **Expense Analyzer Dashboard** | Django • Chart.js • MySQL |
-| 📰 **Blogging Platform** | Django • SQLite |
-| 📚 **DSA Problem Solutions** | C++ |
+| Project | Description |
+|----------|-------------|
+| 🛒 **E-Commerce Website** | Full-stack e-commerce platform with authentication, cart, and admin panel. |
+| 💰 **Expense Analyzer Dashboard** | Expense tracking dashboard with analytics and charts. |
+| 📝 **Blogging Platform** | Blog management system built with Django. |
+| 📚 **DSA Solutions** | Collection of C++ solutions to Data Structures & Algorithms problems. |
 
 ---
 
@@ -102,17 +109,17 @@ Python Full Stack Developer with hands-on experience building responsive web app
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
+# 💬 Random Dev Quote
+
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
