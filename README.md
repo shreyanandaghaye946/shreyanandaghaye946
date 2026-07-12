@@ -14,7 +14,7 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-shreyanandaghaye@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN">
@@ -22,7 +22,7 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shreyanandaghaye946?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -103,7 +103,6 @@ A blog management system developed with **Django and SQLite**, allowing users to
 
 # 🤝 Let's Connect
 
-
 <p align="center">
 <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
@@ -121,4 +120,3 @@ A blog management system developed with **Django and SQLite**, allowing users to
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
----
