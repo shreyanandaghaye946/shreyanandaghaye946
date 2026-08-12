@@ -9,7 +9,7 @@ Python Full Stack Developer | Django Developer | Problem Solver
 </p>
 
 <p align="center">
-<a href="https://github.com/shreyanandaghaye946/shreya-portfolio">
+<a href="[https://github.com/shreyanandaghaye946/shreya-portfolio](https://shreya-portfolio-jhwk.onrender.com/)">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
@@ -104,7 +104,7 @@ A blog management system developed with **Django and SQLite**, allowing users to
 # 🤝 Let's Connect
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://shreya-portfolio-jhwk.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
