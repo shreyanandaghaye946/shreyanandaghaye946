@@ -76,28 +76,28 @@ Python Full Stack Developer with hands-on experience building responsive web app
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
----
+
 
 # 🚀 Featured Projects
 
 ### 🛒 E-Commerce Website
 A full-stack e-commerce platform built with **Django, MySQL, HTML, CSS, JavaScript, and Bootstrap** featuring user authentication, product management, shopping cart, and order management.
 
-🔗 **Repository:** https://github.com/YOUR_USERNAME/ecommerce-website
+🔗 **Repository:** https://github.com/shreyanandaghaye946/ecommerce-website
 
 ---
 
 ### 💰 Expense Analyzer Dashboard
 A web application for tracking and analyzing expenses with **Django, MySQL, and Chart.js**, providing category-wise insights, monthly reports, and interactive dashboards.
 
-🔗 **Repository:** https://github.com/YOUR_USERNAME/expense-analyzer-dashboard
+🔗 **Repository:** https://github.com/Yshreyanandaghaye946/expense-analyzer-dashboard
 
 ---
 
 ### 📝 Blogging Platform
 A blog management system developed with **Django and SQLite**, allowing users to create, edit, and manage blog posts through an intuitive interface.
 
-🔗 **Repository:** https://github.com/YOUR_USERNAME/blogging-platform
+🔗 **Repository:** https://github.com/shreyanandaghaye946/blogging-platform
 
 ---
 
