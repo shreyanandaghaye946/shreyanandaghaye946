@@ -97,7 +97,7 @@ A web application for tracking and analyzing expenses with **Django, MySQL, and 
 ### 📝Blog Website
 A blog management system developed with **Django and SQLite**, allowing users to create, edit, and manage blog posts through an intuitive interface.
 
-🔗 **Repository:** https://github.com/shreyanandaghaye946/Blog Website
+🔗 **Repository:** https://github.com/shreyanandaghaye946/blog-website
 
 ---
 
